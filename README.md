@@ -4,7 +4,7 @@
 A simple and secure command-line Password Manager built using Python.
 This application allows users to store and retrieve passwords securely using encryption.
 
-🚀 Features
+## 🚀 Features
 
 🔒 Encrypts passwords using Fernet symmetric encryption
 
@@ -18,7 +18,7 @@ This application allows users to store and retrieve passwords securely using enc
 
 💾 Persistent local storage
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Python 3
 
@@ -30,13 +30,13 @@ OS Module
 
 getpass Module
 
-📦 Installation
-1️⃣ Clone the repository
+# 📦 Installation
+## 1️⃣ Clone the repository
 git clone https://github.com/yourusername/password-manager.git
 cd password-manager
-2️⃣ Install dependencies
+## 2️⃣ Install dependencies
 pip install cryptography
-▶️ How to Run
+## ▶️ How to Run
 python passwordmanager.py
 📋 Usage
 🔹 Add New Password
