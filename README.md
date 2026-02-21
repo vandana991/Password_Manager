@@ -4,7 +4,7 @@
 A simple and secure command-line Password Manager built using Python.
 This application allows users to store and retrieve passwords securely using encryption.
 
-## 🚀 Features
+# 🚀 Features
 
 🔒 Encrypts passwords using Fernet symmetric encryption
 
@@ -18,7 +18,7 @@ This application allows users to store and retrieve passwords securely using enc
 
 💾 Persistent local storage
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 Python 3
 
