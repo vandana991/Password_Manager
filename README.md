@@ -38,8 +38,9 @@ cd password-manager
 pip install cryptography
 ## ▶️ How to Run
 python passwordmanager.py
-📋 Usage
-🔹 Add New Password
+
+# 📋 Usage
+## 🔹 Add New Password
 
 Enter website name
 
@@ -49,13 +50,13 @@ Choose to generate strong password OR enter manually
 
 Password is encrypted before storing
 
-🔹 View Password
+## 🔹 View Password
 
 Enter website name
 
 Stored password is decrypted and displayed
 
-🔐 How Security Works
+# 🔐 How Security Works
 
 A unique encryption key is generated and stored in secret.key
 
@@ -65,14 +66,15 @@ Only encrypted data is stored in passwords.db
 
 Password input is hidden using getpass
 
-📂 Project Structure
+# 📂 Project Structure
 password-manager/
 │
 ├── passwordmanager.py
 ├── passwords.db
 ├── secret.key
 └── README.md
-⚠️ Important Notes
+
+# ⚠️ Important Notes
 
 Do NOT share your secret.key file.
 
@@ -80,7 +82,7 @@ If secret.key is lost, stored passwords cannot be decrypted.
 
 This is a local password manager (no cloud sync).
 
-💡 Future Improvements
+# 💡 Future Improvements
 
 Master password authentication
 
